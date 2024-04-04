@@ -1,0 +1,205 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.ana{
+    width: 100%;
+    height: 100vh;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.sekil{
+    width:50%;
+    height: 80vh;
+    background-color: blueviolet;
+}
+.sag{
+    width:45%;
+    height: 80vh;
+    background-color: rgb(10, 9, 47);
+}
+input{
+    width: 280px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.basliq{
+    padding-top: 10px;
+    padding-left: 40px;
+    font-size: 30px;
+    color: aliceblue;
+}
+.parag{
+    padding-top: 10px;
+    padding-left: 60px;
+    color: chocolate;
+    font-size: 20px;
+}
+.textarea{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    min-width: 93%
+}
+button{
+    width: 590px;
+    margin-left: 20px;
+    height: 70px;
+    background-color: chocolate;
+}
+.img1{
+    height: 80vh;
+    width: 100%;
+}
+.cat_esas{
+    border: solid 1px;
+    width: 70%;
+    height: 80vh;
+    background-color: antiquewhite;
+    display: flex;
+    margin-left: 300px;
+}
+.sol_h{
+    width: 30%;
+    height: 100vh;
+    background-color: rgb(8, 7, 24)
+}
+.sag_h{
+    width: 70%;
+    height: 100vh;
+    background-color: lightcoral;
+}
+.sag_ust1{
+  display: flex;
+}
+.sag_ust2{
+   width: 100%;
+   height: 250px;
+   background-color: rgb(255, 255, 255);
+}
+.head{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.lorem{
+    margin-left: 30px;
+}
+.basliq2{
+  font-size: 30px;
+  margin-top: 140px;
+  margin-left: 20px;
+  color: aliceblue;
+  margin-bottom: 40px;
+}
+.e{
+    margin-left: 20px;
+    color: aliceblue;
+}
+.lorem1{
+    margin-left: 20px;
+    margin-right: 10px;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+}
+.btn{
+    width: 140px;
+    height: 50px;
+    background-color: rgb(8, 7, 24);
+    margin-top: 30px;
+    margin-left: 20px;
+    color: aliceblue;
+    border: solid aliceblue 1px;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: lightseagreen;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 120px;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+.center_sol{
+    width: 50%;
+    height: 90vh;
+}
+.img4{
+    width: 100%;
+    height: 90vh;
+}
+.saq_hisse{
+    display: flex;
+}
+.center_saq{
+    width: 40%;
+    height: 90vh;
+    background-color: rgb(251, 255, 255);
+}
+.center{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+}
+.size{
+    font-size: 15px;
+    margin-top: 90px;
+    padding-bottom: 50px;
+}
+.paraqraf{
+  font-size: 33px;
+  padding-bottom: 40px;
+}
+.span1{
+    font-size: 30px;
+}
+.pha{
+    display: flex;
+   justify-content: space-between;
+    padding-top: 30px;
+}
+.a p{
+    font-size: 10px;
+}
+.b p{
+    font-size: 10px;
+}
+.c p{
+    font-size: 10px;
+}
+.pha h3{
+    color: lightseagreen;
+}
+.son{
+    font-size: 20px;
+    padding-top: 20px;
+    color: gray;
+}
+.btn2{
+    width: 140px;
+    height: 50px;
+    background-color: lightseagreen;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: aliceblue;
+    border: solid aliceblue 1px;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+}
